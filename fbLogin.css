@@ -95,7 +95,9 @@ body {
     top: 17%;
     left: 57%;
 }
-
+hr{
+    opacity:0.3;
+}
 #signIn {
     color: aliceblue;
     width: 45%;
